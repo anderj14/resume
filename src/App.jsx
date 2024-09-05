@@ -9,7 +9,7 @@ import Encyclopedia from "./features/pages/invents/Encyclopedia";
 import GameRoom from "./features/pages/invents/GameRoom";
 import BlogNews from "./features/pages/apis/BlogNews";
 import Recipe from "./features/pages/apis/Recipe";
-import About from "./features/about/about";
+import About from "./features/about/About";
 
 function App() {
   return (

@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import SmallTitle from "../../components/SmallTitle";
 import Paragraph from "../../components/Paragraph";
