@@ -41,14 +41,14 @@ export default function BlogNews() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="blognews/diagram-1.png" alt="Diagram 1" />
-          <Image src="blognews/diagram-2.png" alt="Diagram 2" />
-          <Image src="blognews/diagram-3.png" alt="Diagram 3" />
+          <Image src="../../src/assets/blognews/diagram-1.png" alt="Diagram 1" />
+          <Image src="../../src/assets/blognews/diagram-2.png" alt="Diagram 2" />
+          <Image src="../../src/assets/blognews/diagram-3.png" alt="Diagram 3" />
           
-          <Image src="blognews/blog-1.png" alt="Blog 1" />
-          <Image src="blognews/blog-2.png" alt="Blog 2" />
-          <Image src="blognews/blog-3.png" alt="Blog 3" />
-          <Image src="blognews/blog-4.png" alt="Blog 4" />
+          <Image src="../../src/assets/blognews/blog-1.png" alt="Blog 1" />
+          <Image src="../../src/assets/blognews/blog-2.png" alt="Blog 2" />
+          <Image src="../../src/assets/blognews/blog-3.png" alt="Blog 3" />
+          <Image src="../../src/assets/blognews/blog-4.png" alt="Blog 4" />
         </div>
       </div>
     </div>
