@@ -7,7 +7,6 @@ export default function Home() {
       <div className="section">
         <HeroSection />
         <Projects />
-        {/* <ContactSection /> */}
       </div>
     </div>
   );

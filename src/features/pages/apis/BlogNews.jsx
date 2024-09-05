@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Paragraph from "../../../components/Paragraph";
 import Subtitle from "../../../components/Subtitle";
 import Meta from "../../../components/Meta";
@@ -6,6 +6,10 @@ import Image from "../../../components/Image";
 import SmallTitle from "../../../components/SmallTitle";
 
 export default function BlogNews() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div title="elipson" className="works">
       <div className="container">
@@ -44,7 +48,7 @@ export default function BlogNews() {
           <Image src="/blognews/diagram-1.png" alt="Diagram 1" />
           <Image src="/blognews/diagram-2.png" alt="Diagram 2" />
           <Image src="/blognews/diagram-3.png" alt="Diagram 3" />
-          
+
           <Image src="/blognews/blog-1.png" alt="Blog 1" />
           <Image src="/blognews/blog-2.png" alt="Blog 2" />
           <Image src="/blognews/blog-3.png" alt="Blog 3" />

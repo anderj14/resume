@@ -1,12 +1,15 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Paragraph from "../../../components/Paragraph";
 import Subtitle from "../../../components/Subtitle";
 import Meta from "../../../components/Meta";
 import Image from "../../../components/Image";
 import SmallTitle from "../../../components/SmallTitle";
 
-
 export default function Elipson() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div title="elipson" className="works">
       <div className="container">
@@ -41,7 +44,7 @@ export default function Elipson() {
           </ul>
         </section>
         <div className="images">
-          <SmallTitle smallTitle="Images"/>
+          <SmallTitle smallTitle="Images" />
           <Image src="/rentcar/rentcar-1.png" alt="Rentar Car 1" />
           <Image src="/rentcar/rentcar-2.png" alt="Rentar Car 2" />
           <Image src="/rentcar/rentcar-3.png" alt="Rentar Car 3" />

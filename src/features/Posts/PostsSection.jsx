@@ -4,6 +4,7 @@ import api from "/posts/api.png";
 import error from "/posts/error.png";
 
 export default function PostsSection() {
+  
   var apiPost =
     "https://medium.com/@andersonfrias001/building-a-api-net-sqlite-a-comprehensive-guide-086b230439fa";
   var errorPost =

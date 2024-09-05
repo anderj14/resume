@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useEffect } from "react";
 import Paragraph from "../../../components/Paragraph";
 import Subtitle from "../../../components/Subtitle";
 import Meta from "../../../components/Meta";
@@ -6,6 +6,10 @@ import Image from "../../../components/Image";
 import SmallTitle from "../../../components/SmallTitle";
 
 export default function DentalClinic() {
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
+
   return (
     <div title="elipson" className="works">
       <div className="container">
