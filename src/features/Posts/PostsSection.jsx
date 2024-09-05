@@ -6,8 +6,9 @@ import error from "../../assets/posts/error.png";
 export default function PostsSection() {
   var apiPost =
     "https://medium.com/@andersonfrias001/building-a-api-net-sqlite-a-comprehensive-guide-086b230439fa";
-  var errorPost = "";
-  
+  var errorPost =
+    "https://medium.com/@andersonfrias001/building-a-api-net-sqlite-a-comprehensive-guide-086b230439fa";
+
   return (
     <div className="posts-container">
       <div className="content">
@@ -19,7 +20,7 @@ export default function PostsSection() {
               description="This is a guide to building an API using different design patterns."
             />
           </a>
-          <a href="">
+          <a href={errorPost} target="_blank">
             <Card
               image={error}
               title="How to implement error handling in your .NET API"
