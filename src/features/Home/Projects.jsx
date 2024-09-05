@@ -1,12 +1,12 @@
 import React from "react";
 import Card from "../../components/Card";
 
-import dental from "../../assets/dental/dental-5.png";
-import rentcar from "../../assets/rentcar/rentcar-1.png";
-import wiki from "../../assets/invents/wiki/wiki-1.png";
-import game from "../../assets/invents/game/game-1.png";
-import news from "../../assets/blognews/diagram-1.png";
-import recipe from "../../assets/recipejournay/recipe_1.png";
+import dental from "/dental/dental-5.png";
+import rentcar from "/rentcar/rentcar-1.png";
+import wiki from "/invents/wiki/wiki-1.png";
+import game from "/invents/game/game-1.png";
+import news from "/blognews/diagram-1.png";
+import recipe from "/recipejournay/recipe_1.png";
 import Subtitle from "../../components/Subtitle";
 import Paragraph from "../../components/Paragraph";
 import { Link } from "react-router-dom";

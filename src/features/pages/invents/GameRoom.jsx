@@ -40,10 +40,10 @@ export default function GameRoom() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="invents/game/game-1.png" alt="game 1" />
-          <Image src="invents/game/game-2.png" alt="game 2" />
-          <Image src="invents/game/game-3.png" alt="game 3" />
-          <Image src="invents/game/game-4.png" alt="game 4" />
+          <Image src="/invents/game/game-1.png" alt="game 1" />
+          <Image src="/invents/game/game-2.png" alt="game 2" />
+          <Image src="/invents/game/game-3.png" alt="game 3" />
+          <Image src="/invents/game/game-4.png" alt="game 4" />
         </div>
       </div>
     </div>

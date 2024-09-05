@@ -41,16 +41,16 @@ export default function Recipe() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="recipejournay/recipe_1.png" alt="Recipe 1" />
-          <Image src="recipejournay/recipe_2.png" alt="Recipe 2" />
-          <Image src="recipejournay/recipe_3.png" alt="Recipe 3" />
-          <Image src="recipejournay/recipe_4.png" alt="Recipe 4" />
-          <Image src="recipejournay/recipe_5.png" alt="Recipe 5" />
-          <Image src="recipejournay/recipe_6.png" alt="Recipe 6" />
-          <Image src="recipejournay/recipe_7.png" alt="Recipe 7" />
-          <Image src="recipejournay/recipe_8.png" alt="Recipe 8" />
-          <Image src="recipejournay/recipe_9.png" alt="Recipe 9" />
-          <Image src="recipejournay/recipe_10.png" alt="Recipe 10" />
+          <Image src="/recipejournay/recipe_1.png" alt="Recipe 1" />
+          <Image src="/recipejournay/recipe_2.png" alt="Recipe 2" />
+          <Image src="/recipejournay/recipe_3.png" alt="Recipe 3" />
+          <Image src="/recipejournay/recipe_4.png" alt="Recipe 4" />
+          <Image src="/recipejournay/recipe_5.png" alt="Recipe 5" />
+          <Image src="/recipejournay/recipe_6.png" alt="Recipe 6" />
+          <Image src="/recipejournay/recipe_7.png" alt="Recipe 7" />
+          <Image src="/recipejournay/recipe_8.png" alt="Recipe 8" />
+          <Image src="/recipejournay/recipe_9.png" alt="Recipe 9" />
+          <Image src="/recipejournay/recipe_10.png" alt="Recipe 10" />
         </div>
       </div>
     </div>

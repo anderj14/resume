@@ -42,8 +42,8 @@ export default function Encyclopedia() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="invents/wiki/wiki-1.png" alt="wiki 1" />
-          <Image src="invents/wiki/wiki-2.png" alt="wiki 2" />
+          <Image src="/invents/wiki/wiki-1.png" alt="wiki 1" />
+          <Image src="/invents/wiki/wiki-2.png" alt="wiki 2" />
         </div>
       </div>
     </div>

@@ -1,7 +1,7 @@
 import React from "react";
 import Card from "../../components/Card";
-import api from "../../assets/posts/api.png";
-import error from "../../assets/posts/error.png";
+import api from "/posts/api.png";
+import error from "/posts/error.png";
 
 export default function PostsSection() {
   var apiPost =

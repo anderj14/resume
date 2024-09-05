@@ -42,12 +42,12 @@ export default function Elipson() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images"/>
-          <Image src="rentcar/rentcar-1.png" alt="Rentar Car 1" />
-          <Image src="rentcar/rentcar-2.png" alt="Rentar Car 2" />
-          <Image src="rentcar/rentcar-3.png" alt="Rentar Car 3" />
-          <Image src="rentcar/rentcar-4.png" alt="Rentar Car 4" />
-          <Image src="rentcar/rentcar-5.png" alt="Rentar Car 5" />
-          <Image src="rentcar/rentcar-6.png" alt="Rentar Car 6" />
+          <Image src="/rentcar/rentcar-1.png" alt="Rentar Car 1" />
+          <Image src="/rentcar/rentcar-2.png" alt="Rentar Car 2" />
+          <Image src="/rentcar/rentcar-3.png" alt="Rentar Car 3" />
+          <Image src="/rentcar/rentcar-4.png" alt="Rentar Car 4" />
+          <Image src="/rentcar/rentcar-5.png" alt="Rentar Car 5" />
+          <Image src="/rentcar/rentcar-6.png" alt="Rentar Car 6" />
         </div>
       </div>
     </div>

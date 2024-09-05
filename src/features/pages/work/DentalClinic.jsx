@@ -41,12 +41,12 @@ export default function DentalClinic() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="dental/dental-1.png" alt="Dental clinic 1" />
-          <Image src="dental/dental-2.png" alt="Dental clinic 2" />
-          <Image src="dental/dental-3.png" alt="Dental clinic 3" />
-          <Image src="dental/dental-4.png" alt="Dental clinic 4" />
-          <Image src="dental/dental-5.png" alt="Dental clinic 5" />
-          <Image src="dental/dental-6.png" alt="Dental clinic 6" />
+          <Image src="/dental/dental-1.png" alt="Dental clinic 1" />
+          <Image src="/dental/dental-2.png" alt="Dental clinic 2" />
+          <Image src="/dental/dental-3.png" alt="Dental clinic 3" />
+          <Image src="/dental/dental-4.png" alt="Dental clinic 4" />
+          <Image src="/dental/dental-5.png" alt="Dental clinic 5" />
+          <Image src="/dental/dental-6.png" alt="Dental clinic 6" />
         </div>
       </div>
     </div>
