@@ -7,7 +7,7 @@ export default function PostsSection() {
   var apiPost =
     "https://medium.com/@andersonfrias001/building-a-api-net-sqlite-a-comprehensive-guide-086b230439fa";
   var errorPost =
-    "https://medium.com/@andersonfrias001/building-a-api-net-sqlite-a-comprehensive-guide-086b230439fa";
+    "https://medium.com/@andersonfrias001/how-to-implement-error-handling-in-your-net-api-b1ab865b3b5f";
 
   return (
     <div className="posts-container">
