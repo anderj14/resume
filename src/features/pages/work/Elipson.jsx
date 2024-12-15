@@ -17,11 +17,11 @@ export default function Elipson() {
           <Subtitle subtitle="Elipson" />
           <Paragraph
             paragraph="
-            It is a web platform designed to simplify the car rental process for customers 
-            and fleet management for rental companies. Provides an easy-to-use interface 
-            for customers to search for available vehicles and make reservations. 
-            For administrators, it offers robust tools to manage car inventory, reservations 
-            and customer information.
+            Elipson is a web application developed to automate vehicle rental management, 
+            making it easy for users to book, consult and manage available cars. The platform 
+            optimizes the entire rental process with intuitive features and a modern design, 
+            providing an efficient and fluid user experience. Elipson integrates automated 
+            processes to simplify vehicle management and improve operational efficiency.
           "
           />
         </div>
@@ -39,18 +39,25 @@ export default function Elipson() {
             </li>
             <li>
               <Meta meta="Stack" />
-              <Paragraph paragraph=".NET / Sqlite / MySQL / JWT / Angular / Bootstrap / Material Design" />
+              <Paragraph paragraph=".NET / Sqlite / SQLServer / JWT / Angular / Bootstrap / Material Design" />
             </li>
           </ul>
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="/rentcar/rentcar-1.png" alt="Rentar Car 1" />
-          <Image src="/rentcar/rentcar-2.png" alt="Rentar Car 2" />
-          <Image src="/rentcar/rentcar-3.png" alt="Rentar Car 3" />
-          <Image src="/rentcar/rentcar-4.png" alt="Rentar Car 4" />
-          <Image src="/rentcar/rentcar-5.png" alt="Rentar Car 5" />
-          <Image src="/rentcar/rentcar-6.png" alt="Rentar Car 6" />
+          <Image src="/rentcar/dealer-4.jpg" alt="Rentar Car 4" />
+          <Image src="/rentcar/dealer-5.jpg" alt="Rentar Car 5" />
+          <Image src="/rentcar/dealer-6.jpg" alt="Rentar Car 6" />
+          <Image src="/rentcar/dealer-7.jpg" alt="Rentar Car 7" />
+          <Image src="/rentcar/dealer-8.jpg" alt="Rentar Car 8" />
+          <Image src="/rentcar/dealer-9.jpg" alt="Rentar Car 9" />
+          <Image src="/rentcar/dealer-10.jpg" alt="Rentar Car 10" />
+          <Image src="/rentcar/dealer-11.jpg" alt="Rentar Car 11" />
+          <Image src="/rentcar/dealer-12.jpg" alt="Rentar Car 12" />
+          <Image src="/rentcar/dealer-13.jpg" alt="Rentar Car 13" />
+          <Image src="/rentcar/dealer-14.jpg" alt="Rentar Car 14" />
+          <Image src="/rentcar/dealer-16.jpg" alt="Rentar Car 16" />
+          <Image src="/rentcar/dealer-17.jpg" alt="Rentar Car 17" />
         </div>
       </div>
     </div>

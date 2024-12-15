@@ -18,10 +18,11 @@ export default function DentalClinic() {
           <Paragraph paragraph="Required permision" />
           <Paragraph
             paragraph="
-            This dental application manages various aspects of a clinic, including costs 
-            and payments, data management in SQL Server, patient monitoring and disease 
-            management, diagnostics, soft tissue testing and imaging, offering a comprehensive 
-            and efficient solution.
+            DentalCare is a desktop application developed for the comprehensive management of 
+            dental offices, optimizing administrative and clinical processes through features 
+            such as registration and consultation of patient information and medical history, 
+            efficient appointment control, detailed treatment monitoring, integration with medical 
+            images and automated generation of invoices to facilitate financial administration.
           "
           />
         </div>
@@ -29,6 +30,7 @@ export default function DentalClinic() {
           <ul>
             <li>
               <Meta meta="Repository" />
+              <Paragraph paragraph="Required permision" />
               <a href="https://github.com/anderj14/DentalClinicManagement">
                 https://github.com/anderj14/DentalClinicManagement
               </a>

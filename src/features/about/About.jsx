@@ -37,15 +37,17 @@ export default function About() {
           <SmallTitle smallTitle="Hello! Im Andder Frias." />
           <Paragraph
             paragraph="
-            I am Anderson Frias, a passionate Dominican software developer 
-            with a keen interest in creating innovative digital solutions. 
-            My experience is based on methodologies such as RUP and SCRUM, 
-            where I excel at seamlessly guiding projects through system analysis, 
-            design, and implementation. Whether it's gathering meticulous requirements 
-            or strategically planning and designing systems, I love turning complex challenges 
-            into user-friendly solutions.
+            I’m Anderson Frias, a passionate software developer from the Dominican Republic, 
+            dedicated to delivering innovative digital solutions. With extensive experience 
+            across all stages of the software development life cycle, I specialize in guiding 
+            projects seamlessly from planning and design to implementation. I excel at transforming 
+            complex challenges into intuitive, high-performance systems that not only meet technical 
+            requirements but also align with business goals and enhance user experiences.
         "
           />
+           <a href="/Resume.pdf" download="Andder_Frias_Resume" className="download-btn">
+            Download Resume
+          </a>
         </section>
         <section className="contact">
           <form ref={form} onSubmit={sendEmail}>

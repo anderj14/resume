@@ -45,9 +45,9 @@ export default function BlogNews() {
         </section>
         <div className="images">
           <SmallTitle smallTitle="Images" />
-          <Image src="/blognews/diagram-1.png" alt="Diagram 1" />
-          <Image src="/blognews/diagram-2.png" alt="Diagram 2" />
-          <Image src="/blognews/diagram-3.png" alt="Diagram 3" />
+          <Image src="/blognews/diagram-1.webp" alt="Diagram 1" />
+          <Image src="/blognews/diagram-2.webp" alt="Diagram 2" />
+          <Image src="/blognews/diagram-3.webp" alt="Diagram 3" />
 
           <Image src="/blognews/blog-1.png" alt="Blog 1" />
           <Image src="/blognews/blog-2.png" alt="Blog 2" />

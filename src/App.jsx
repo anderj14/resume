@@ -10,6 +10,8 @@ import GameRoom from "./features/pages/invents/GameRoom";
 import BlogNews from "./features/pages/apis/BlogNews";
 import Recipe from "./features/pages/apis/Recipe";
 import About from "./features/about/About";
+import DataCardio from "./features/pages/work/DataCardio";
+import Inventory from "./features/pages/apis/Inventory";
 
 function App() {
   return (
@@ -20,10 +22,12 @@ function App() {
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/posts" element={<Posts />} />
+            <Route path="/works/datacardio" element={<DataCardio />} />
             <Route path="/works/elipson" element={<Elipson />} />
             <Route path="/works/dentalclinic" element={<DentalClinic />} />
             <Route path="/works/encyclopedia" element={<Encyclopedia />} />
             <Route path="/works/gameroom" element={<GameRoom />} />
+            <Route path="/works/inventory" element={<Inventory />} />
             <Route path="/works/blognews" element={<BlogNews />} />
             <Route path="/works/recipe" element={<Recipe />} />
             <Route path="/about" element={<About />} />
