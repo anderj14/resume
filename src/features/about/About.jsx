@@ -37,7 +37,7 @@ export default function About() {
           <SmallTitle smallTitle="Hello! Im Andder Frias." />
           <Paragraph
             paragraph="
-            I’m Anderson Frias, a passionate software developer from the Dominican Republic, 
+            I’m Andder Frias, a passionate software developer from the Dominican Republic, 
             dedicated to delivering innovative digital solutions. With extensive experience 
             across all stages of the software development life cycle, I specialize in guiding 
             projects seamlessly from planning and design to implementation. I excel at transforming 
